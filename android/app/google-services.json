@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995727413748",
+    "project_id": "ott-asper-hackathon",
+    "storage_bucket": "ott-asper-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995727413748:android:e059cfa2ef7e311c76e9a1",
+        "android_client_info": {
+          "package_name": "com.example.ott_asper_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995727413748-f9nknb115tg6qdlepnv16grqj9ts1ruc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVoMblx7NHNIA4lmyoJKBhlAGMIq9W1p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995727413748-f9nknb115tg6qdlepnv16grqj9ts1ruc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
